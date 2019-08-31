@@ -1,0 +1,4 @@
+ts-bot.pem
+node_modules
+dist
+.env
